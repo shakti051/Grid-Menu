@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GridMenu</string>
+    <string name="airplane">Airplane</string>
+    <string name="car">Car</string>
+    <string name="cityBus">City Bus</string>
+    <string name="train">Train</string>
+    <string name="restro">Restro</string>
+    <string name="hotel">Hotel</string>
+    <string name="nightClub">Night Club</string>
+    <string name="places">Places</string>
+    <string name="travelAgency">Swan Tours - Travel Agent in Delhi</string>
+</resources>
